@@ -17,6 +17,3 @@ var input = [
   console.log(result[1] === 13);
   console.log(result[2] === 17);
 
-//   const map1 = array1.map(x => x * 2);
-// (x^2 + y^2 = z^2)
-// var roots = numbers.map(Math.sqrt);
